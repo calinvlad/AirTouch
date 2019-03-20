@@ -1,6 +1,7 @@
 ### SERVER
 # Run
-$ npm install // Server is on port :8081
+$ npm install
+$ node server.js || nodemon // Server is on port :8081
 ## Connect to the Db from server/db/config/config.json // It will run in development mode
 
 ## to populate the DB
